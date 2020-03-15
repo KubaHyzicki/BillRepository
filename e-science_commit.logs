@@ -1,0 +1,210 @@
+commit 697d806b61ac0079019d19e6e1a1a6c8abec84c7
+Merge: 7c33f6c 5efe7e5
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Thu Mar 12 15:27:21 2020 +0100
+
+    Merge branch '9-implement-loadjson' into 'master'
+    
+    Resolve "implement loadJson"
+    
+    Closes #9
+    
+    See merge request mbartoszek210022/lab02_1!6
+
+commit 5efe7e50a70dc68adaa85fbcc99d4d8f78d8991c
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Thu Mar 12 15:19:14 2020 +0100
+
+    Implement loadJson mechanism
+
+commit 7c33f6cc7dbe2e56236061c446f1099806e932c2
+Merge: c7336df 603b0c6
+Author: mpasierbiewicz226001 <mpasierbiewicz226001@e-science.pl>
+Date:   Wed Mar 11 23:09:44 2020 +0100
+
+    Merge branch 'FX_gui' into 'master'
+    
+    Fx gui
+    
+    See merge request mbartoszek210022/lab02_1!7
+
+commit c7336dffe9db6e54e9f18ef20a931a75aab8c44f
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Wed Mar 11 23:02:30 2020 +0100
+
+    Reupdate .gitignore for Intellij
+
+commit 540bf9d4dc5bea574c925cedff429de75faa3ad1
+Author: mpasierbiewicz226001 <mpasierbiewicz226001@e-science.pl>
+Date:   Wed Mar 11 22:19:24 2020 +0100
+
+    Delete Bill.java
+
+commit 603b0c6f80a2d0ac66be13fde7a5345dd62e2ce7
+Author: mpasierbiewicz226001 <mpasierbiewicz226001@e-science.pl>
+Date:   Wed Mar 11 22:07:57 2020 +0100
+
+    Add gui main.java
+
+commit 80b2e4e1ad9352841f0e1d09c3ef0d4c44b19f50
+Author: mpasierbiewicz226001 <mpasierbiewicz226001@e-science.pl>
+Date:   Wed Mar 11 22:05:54 2020 +0100
+
+    Upload New File
+
+commit c7849d673071c5a91c07efa838fa4fc044af9dc7
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Wed Mar 11 22:04:55 2020 +0100
+
+    Deleted unecessary files.
+
+commit 3f96b1654a913d48c18950aff7750f350472e132
+Author: mpasierbiewicz226001 <mpasierbiewicz226001@e-science.pl>
+Date:   Wed Mar 11 22:03:19 2020 +0100
+
+    Delete main.java
+
+commit 24e478190eef1bbde5abbdb44b672c4a091c2b7f
+Author: mpasierbiewicz226001 <mpasierbiewicz226001@e-science.pl>
+Date:   Wed Mar 11 22:03:12 2020 +0100
+
+    Delete BillDatabase.java
+
+commit 44bcfbaeb2d9a2271390447a814211162b2b678a
+Author: mpasierbiewicz226001 <mpasierbiewicz226001@e-science.pl>
+Date:   Wed Mar 11 22:02:49 2020 +0100
+
+    Delete Bill.java
+
+commit 4176927051c0121cb18d652f8abc854cf330aa55
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Wed Mar 11 21:40:00 2020 +0100
+
+    Added bin file to gitignore
+
+commit ab90d7c4461c9cd787b295eff629c075d2d684f4
+Merge: b74425a 6fb6d0f
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Mon Mar 9 23:47:04 2020 +0100
+
+    Merge branch 'FixMainMethodsDefinition' into 'master'
+    
+    Fix main methods definition
+    
+    See merge request mbartoszek210022/lab02_1!3
+
+commit 6fb6d0f3a43b93da0e2d10ba3fb022fa31def734
+Merge: bb64410 b74425a
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Mon Mar 9 23:46:38 2020 +0100
+
+    Merge branch 'master' into 'FixMainMethodsDefinition'
+    
+    # Conflicts:
+    #   src/BillDatabase.java
+
+commit bb64410658aab38749270700a451740e7b648d1c
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Mon Mar 9 23:14:18 2020 +0100
+
+    Fixed declaration of mani methods
+
+commit d0ac5a90860e40a7e2ca7b40fe3474a91319c99d
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Mon Mar 9 23:05:51 2020 +0100
+
+    Fill class bill
+
+commit b74425ae39b16ab68afc9f46b4e4005602e973b1
+Merge: 5932e95 4575883
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:41:41 2020 +0100
+
+    Merge branch 'master' of git.e-science.pl:mbartoszek210022/lab02_1
+
+commit 5932e953c2eeeaa48ca8f92f0b40fa239f2f0e71
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:41:30 2020 +0100
+
+    update .gitignore for Intellij
+
+commit 45758837965002ea087cb52efaba874c1e432285
+Merge: 214b1b5 b51b19c
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:22:48 2020 +0100
+
+    Merge branch '11-implement-sqllite-database-core' into 'master'
+    
+    Resolve "implement sqlLite database core"
+    
+    Closes #11
+    
+    See merge request mbartoszek210022/lab02_1!2
+
+commit b51b19c3b76518e334be224a648a4494889f28a2
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:22:48 2020 +0100
+
+    Resolve "establish database connection + some cosmetic changes"
+
+commit 3186695a6e7c1628b71dbb1792ff8b729b43ed8c
+Merge: e1d2a87 214b1b5
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:19:12 2020 +0100
+
+    Merge branch 'master' of git.e-science.pl:mbartoszek210022/lab02_1
+
+commit e1d2a87abc21af0e62e736c7d8457f25f98bd1e3
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:18:54 2020 +0100
+
+    establish database connection + some cosmetic changes
+
+commit 22184cd57cc0bc5328efb779596d2021e0482483
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:14:13 2020 +0100
+
+    add database
+
+commit e55bd8cafb03e024a16542bf038a2ce87ad90a9d
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 20:13:53 2020 +0100
+
+    Create database connection
+
+commit 214b1b5ce7f02139752f386b7d928a18841cb783
+Merge: 26e0086 0c775ea
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Mon Mar 9 18:25:25 2020 +0100
+
+    Merge branch 'master' of git.e-science.pl:mbartoszek210022/lab02_1
+
+commit 26e0086bfab6f1acef8ae7e3b4b9521ca9756ae8
+Author: dsiuda235069 <dsiuda235069@e-science.pl>
+Date:   Mon Mar 9 18:25:00 2020 +0100
+
+    Added gitignore
+
+commit 0c775ea7a62a0fe6609a054a08235fb141b4b524
+Author: mhyzicki225947 <mhyzicki225947@e-science.pl>
+Date:   Mon Mar 9 18:22:47 2020 +0100
+
+    rename database class
+
+commit 30071b6b62e7a36d65a4e9a41bd5d9fb0b634240
+Author: KubaHyzicki <kuba.hyzicki@gmail.com>
+Date:   Mon Mar 9 18:04:02 2020 +0100
+
+    init Bill database model
+
+commit ef5d526bbd60a910c475862aec39ffe4e3e78454
+Author: KubaHyzicki <kuba.hyzicki@gmail.com>
+Date:   Mon Mar 9 18:00:09 2020 +0100
+
+    init src
+
+commit 385ecbb43f6b5db05e68721d44ed3946690c5995
+Author: bartoszek <bartoszekmarcinn@gmail.com>
+Date:   Mon Mar 9 17:20:22 2020 +0100
+
+    add README
