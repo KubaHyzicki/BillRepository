@@ -1,0 +1,20 @@
+{
+	"Bills": {
+		"1": {
+			"path": "path1",
+			"supplier": "Lidl",
+			"date": "wczoraj",
+			"price": "12.23",
+			"description": "makaron",
+			"endOfGuarantee": "jutro"
+		},
+		"2": {
+			"path": "path2",
+			"supplier": "Biedronka",
+			"date": "no kiedyśtam",
+			"price": "123.32",
+			"description": "maska na koronawirusa",
+			"endOfGuarantee": "kiedy wszyscy zginiemy"
+		}
+	}
+}

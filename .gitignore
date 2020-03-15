@@ -1,0 +1,12 @@
+#Eclipse specific
+.classpath
+.project
+bin
+
+#Intellij specific
+.idea
+out
+*.iml
+
+#java specific
+*.jar

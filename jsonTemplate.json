@@ -1,0 +1,12 @@
+{
+	"Bills": {
+		"id": {
+			"path": "",
+			"supplier": "",
+			"date": "",
+			"price": "",
+			"description": "",
+			"endOfGuarantee": ""
+		}
+	}
+}
